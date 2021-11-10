@@ -42,15 +42,18 @@ button {
 #flip,
 #roll {
     background: linear-gradient(to bottom left, lightblue, white);
+    width: 200px;height: 50px;
 }
 
 #flip:hover,
 #roll:hover {
     background: linear-gradient(to bottom left, darkblue, lightblue);
+    
 }
 
 #clear {
     background: linear-gradient(to bottom left, orange, white);
+    width: 200px;height: 50px;
 }
 
 #clear:hover {
